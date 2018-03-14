@@ -12,4 +12,8 @@ public class LoginPage {
 		System.out.println("login page");
 	}
 	
+	public void trail1()
+	{
+		System.out.println("trail again");
+	}
 }
