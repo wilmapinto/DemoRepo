@@ -16,4 +16,10 @@ public class LoginPage {
 	{
 		System.out.println("trail again");
 	}
+	
+	
+	public void trail2()
+	{
+	    System.out.println("Edited in GIT");	
+	}	
 }
